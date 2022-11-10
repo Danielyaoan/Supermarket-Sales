@@ -67,7 +67,7 @@ The data was visualized, analyzed, cleaned, preprocessed and used to train sever
 After implementing performance evaluation metrics, the model gives us 90.3% on the prediction of `gross income`, 80% on the prediction of `Unit price` and 13% on the prediction of `Day of week`. The parameter values give us the most informative attribute when we classify `Gender` and `Customer type`, which is the combination of `Fashion accessories + Cash` and the combination of `Tuesday + Afternoon`, respectively.
 
 
-For more detail, please see my report paper. [https://github.com/UF-Applied-ML-Systems-F22/project-1-Danielyaoan.git](https://github.com/UF-Applied-ML-Systems-F22/project-1-Danielyaoan.git)
+For more detail, please see my report paper. [https://github.com/Danielyaoan/Supermarket-Sales.git](https://github.com/Danielyaoan/Supermarket-Sales.git)
 
 
 <!-- GETTING STARTED -->
@@ -113,7 +113,7 @@ pip install joblib
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/UF-Applied-ML-Systems-F22/project-1-Danielyaoan.git
+   git clone https://github.com/Danielyaoan/Supermarket-Sales.git
    ```
 2. Setup (and activate) your environment
   ```sh
@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Yao An Lee - danielyaoanlee@gmail.com
 
-Project Link: [https://github.com/UF-Applied-ML-Systems-F22/project-1-Danielyaoan.git](https://github.com/UF-Applied-ML-Systems-F22/project-1-Danielyaoan.git)
+Project Link: [https://github.com/Danielyaoan/Supermarket-Sales.git](https://github.com/Danielyaoan/Supermarket-Sales.git)
 
 
 <!-- ACKNOWLEDGEMENTS -->
