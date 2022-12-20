@@ -1,4 +1,4 @@
-# Project 1
+# Supermarket Sales
 
 
 <!-- TABLE OF CONTENTS -->
